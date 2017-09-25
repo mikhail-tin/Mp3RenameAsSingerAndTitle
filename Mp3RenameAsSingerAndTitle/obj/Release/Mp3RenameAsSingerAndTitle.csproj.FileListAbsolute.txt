@@ -1,0 +1,5 @@
+C:\_Share\C#\Mp3RenameAsSingerAndTitle\Mp3RenameAsSingerAndTitle\bin\Release\Mp3RenameAsSingerAndTitle.exe.config
+C:\_Share\C#\Mp3RenameAsSingerAndTitle\Mp3RenameAsSingerAndTitle\bin\Release\Mp3RenameAsSingerAndTitle.exe
+C:\_Share\C#\Mp3RenameAsSingerAndTitle\Mp3RenameAsSingerAndTitle\bin\Release\Mp3RenameAsSingerAndTitle.pdb
+C:\_Share\C#\Mp3RenameAsSingerAndTitle\Mp3RenameAsSingerAndTitle\obj\Release\Mp3RenameAsSingerAndTitle.exe
+C:\_Share\C#\Mp3RenameAsSingerAndTitle\Mp3RenameAsSingerAndTitle\obj\Release\Mp3RenameAsSingerAndTitle.pdb
